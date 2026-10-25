@@ -1,2 +1,3 @@
 # Python_basic_projects
 It contains all the basic python projects.
+I will keep adding new projects here for beginners...
